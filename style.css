@@ -1,0 +1,20 @@
+:root{
+	--menu-hover:#cd9b33;
+	--color-general:#;
+	--color-titulos:#;
+}
+body{
+	font-size: 14px;
+}
+header{
+	background-color: #fff;
+	padding: 5px 0;
+	box-shadow: 0px 0px 5px 10px #f2f2f2;
+}
+footer #copyright{
+	background-color: #000;
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+}
+
